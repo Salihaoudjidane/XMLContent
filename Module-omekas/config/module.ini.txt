@@ -1,0 +1,8 @@
+[info]
+name         = "MXMLContent"
+version      = "1.0"
+author       = "SalihaOUDJIDANE"
+configurable = true
+description  = "Mon premier module Omeka-S"
+module_link  = " "
+author_link  = " "
